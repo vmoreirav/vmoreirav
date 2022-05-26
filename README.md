@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @vmoreirav
-- 👀 I’m interested in become a developer. Right now, I'm a International Relations student and I want to connect this two worlds. 
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and React. I am interested in learning, so if you guys have any tips I will be grateful! 
-- 💞️ I’m looking to collaborate on [sorry, i don't know how to answer this] 
-- 📫 How to reach me through Linkedin [linkedin.com/in/vinícius-matheus-elias-moreira-28b155198]
+- 👀 I became a developer, since the last time that I wrote this. I learned in this time that:
+
+     “Success is the sum of small efforts, repeated day in and day out.” - Robert Collier 
+
+- I keep thinking that I can put together my knowledge from International Relations and world of developer (maybe this bridge can be made by the world of data science).
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and React. This stacks are the main, but I have study Redux, Git, Typescript and others.
+- Right now I'm looking for understand how I can become a good developer whith a good job. By the way, if you want connect with follow the link: 
+
+- Linkedin [linkedin.com/in/vinícius-matheus-elias-moreira-28b155198]
 
 <!---
 vmoreirav/vmoreirav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
