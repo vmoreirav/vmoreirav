@@ -8,7 +8,7 @@
 - Right now I'm looking for understand how I can become a good developer whith a good job. By the way, if you want connect with follow the link: 
 
 - Linkedin [linkedin.com/in/vinícius-matheus-elias-moreira-28b155198]
-<a href="linkedin.com/in/vinícius-matheus-elias-moreira-28b155198" alt="Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-moreira-28b155198/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 <!---
